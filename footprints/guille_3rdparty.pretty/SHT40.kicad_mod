@@ -56,7 +56,7 @@
       )
     )
   )
-  (model "/home/guille/.local/share/kicad/6.0/3dmodels/SHT40.step"
+  (model "${KIPRJMOD}/3dmodels/SHT40.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

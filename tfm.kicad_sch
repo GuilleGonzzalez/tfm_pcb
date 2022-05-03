@@ -3350,8 +3350,8 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 89cc9ca6-9bb9-4622-9549-65a2508f1be8)
     (property "Reference" "F1" (id 0) (at 41.91 58.42 90))
-    (property "Value" "Fuse" (id 1) (at 41.91 60.96 90))
-    (property "Footprint" "Fuse:Fuse_2512_6332Metric" (id 2) (at 41.91 66.548 90)
+    (property "Value" "" (id 1) (at 41.91 60.96 90))
+    (property "Footprint" "" (id 2) (at 41.91 66.548 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 41.91 64.77 0)
@@ -4089,7 +4089,7 @@
       (reference "D3") (unit 1) (value "LED_RGBA") (footprint "guille_3rdparty:APHF1608LSEEQBDZGKC")
     )
     (path "/89cc9ca6-9bb9-4622-9549-65a2508f1be8"
-      (reference "F1") (unit 1) (value "Fuse") (footprint "Fuse:Fuse_2512_6332Metric")
+      (reference "F1") (unit 1) (value "Fuse") (footprint "guille_3rdparty:Fuse_2512_6332Metric")
     )
     (path "/89ca5dbf-ffcd-4580-a3a6-e1aae7fb38ca"
       (reference "J1") (unit 1) (value "Screw_Terminal_01x04") (footprint "guille_3rdparty:TerminalBlock_Altech_AK300-4_P5.00mm")
@@ -4231,6 +4231,27 @@
     )
     (path "/8ae184b6-caa0-4b46-af6b-6d13661eb3b3"
       (reference "TP2") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
+    )
+    (path "/62a1ccba-28df-479f-b158-915abf26b93e/980a11d8-19d4-4758-8a8c-2941d0c040bc"
+      (reference "TP3") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
+    )
+    (path "/62a1ccba-28df-479f-b158-915abf26b93e/4a443588-6a1d-408e-a939-f58fed09f5ca"
+      (reference "TP4") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
+    )
+    (path "/62a1ccba-28df-479f-b158-915abf26b93e/5b681c77-25ce-49d8-bdaf-e79a091e461e"
+      (reference "TP5") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
+    )
+    (path "/62a1ccba-28df-479f-b158-915abf26b93e/82b2636f-d6be-4fdd-99d3-3acb0391665a"
+      (reference "TP6") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
+    )
+    (path "/62a1ccba-28df-479f-b158-915abf26b93e/d92c4cae-d7a9-48b8-a66c-89761540cf50"
+      (reference "TP7") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
+    )
+    (path "/62a1ccba-28df-479f-b158-915abf26b93e/a106b65c-2dce-4edb-95fa-092ebe4135ce"
+      (reference "TP8") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
+    )
+    (path "/62a1ccba-28df-479f-b158-915abf26b93e/2a419547-fbe1-4e45-892d-f306410f3c9d"
+      (reference "TP9") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
     )
     (path "/366beb35-98dc-4b97-8c7f-596e44284f35"
       (reference "U1") (unit 1) (value "LPS25HB") (footprint "Package_LGA:ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y")
