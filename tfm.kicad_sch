@@ -3100,7 +3100,7 @@
   (symbol (lib_id "Connector:Conn_01x02_Female") (at 270.51 109.22 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4ee0ea3c-39fa-4305-9302-2ee36fb0816a)
-    (property "Reference" "J?" (id 0) (at 274.32 108.5849 90)
+    (property "Reference" "J7" (id 0) (at 274.32 108.5849 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "" (id 1) (at 274.32 111.1249 90)
@@ -4110,7 +4110,7 @@
       (reference "J6") (unit 1) (value "Conn_02x04_Counter_Clockwise") (footprint "Connector_PinSocket_1.27mm:PinSocket_2x04_P1.27mm_Vertical_SMD")
     )
     (path "/4ee0ea3c-39fa-4305-9302-2ee36fb0816a"
-      (reference "J?") (unit 1) (value "Conn_01x02_Female") (footprint "")
+      (reference "J7") (unit 1) (value "Conn_01x02_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/5fe5f375-4e42-4c76-a2a1-ff8c6cf7ef08"
       (reference "R1") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0402_1005Metric")
