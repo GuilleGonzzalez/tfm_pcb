@@ -1878,6 +1878,10 @@
     (effects (font (size 2.54 2.54)) (justify left bottom))
     (uuid c4c00c37-31a6-4fcc-a0da-19532acf4547)
   )
+  (text "MAL: EL CONDENSADOR DE 10n VA A OUT" (at 60.96 29.21 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid c55f3889-d775-4b97-9c81-1ba08b20e8d3)
+  )
 
   (label "1V65" (at 160.02 95.25 270)
     (effects (font (size 1.27 1.27)) (justify right bottom))
